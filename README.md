@@ -1,7 +1,7 @@
 # Licorerias-
 investigacion 
 
-##TRABAJO DE INVESTIGACION
+## TRABAJO DE INVESTIGACION
 ~~LAMODELO ELCIELO LABARRA~~
 *venta de licores*
 
